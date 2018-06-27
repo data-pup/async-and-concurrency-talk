@@ -26,7 +26,7 @@ less than 5 minutes. This talk requires 4-5 participants including a presenter
 
 **A:** Sure thing! Hold on just a second.
 
-(At this point, **A** should silently count to 10.)
+(At this point, **A** should silently count to 5.)
 
 **P:** Well, while we wait, I suppose we can move on to the next topic.
   Parallelism and threading!
@@ -49,7 +49,7 @@ begins speaking, **P** should stop and wait for **A** to finish their point.)
 
 **B**: Sure thing! Hold on just a second.
 
-(Bt this point, **B** should silently count to 10.)
+(Bt this point, **B** should silently count to 5.)
 
 **P:** Well, while we wait, I suppose we can move on to the next topic.
   Concurrency and threading!
